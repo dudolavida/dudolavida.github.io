@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A plant-based happy rambler looking through the life's doubts.
 
 ### More Information
 
@@ -12,4 +12,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
+[comment]: <> ([email@domain.com](mailto:email@domain.com))
