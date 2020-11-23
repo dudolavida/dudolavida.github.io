@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-A plant-based happy rambler
+La vida de dudo
+con las dudas de la vida
 
-[comment]: <> (### More Information
+### More Information
+A plant-based happy rambler, in London.
 
-...
+With a passion for languages & learning
 
-### Contact me
+[comment]: <> (### Contact me
 ...)
 
 [comment]: <> ([email@domain.com](mailto:email@domain.com))
