@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Now
+title: Now!
 permalink: /now/
 ---
 
@@ -9,3 +9,4 @@ permalink: /now/
 Writing this blog and testing things out ;)
 
 ...
+  
