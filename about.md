@@ -12,7 +12,6 @@ A plant-based happy rambler, in London UK.
 
 With a passion for languages & learning
 
-[comment]: <> (### Contact me
-...)
+[comment]: <> (### Contact me...)
 
 [comment]: <> ([email@domain.com](mailto:email@domain.com))
