@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Self
+title: Doubts of the Self
 category: Dudas
 ---
 
