@@ -10,7 +10,7 @@ con las dudas de la vida
 ### More Information
 A plant-based happy rambler, in London UK.
 
-With a passion for languages & learning
+With a passion for languages, learning and change.
 
 [comment]: <> (### Contact me...)
 

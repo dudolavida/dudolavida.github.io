@@ -17,7 +17,7 @@ It's all about cooking more!! I started recipe planning in mid-2020. My 5 key st
 5. Cook Incessantly
     ... ENJOY! ...
 
-P.s. Organising the list by sections in the store & your route through the shop 🤓, really helps as well 😎
+P.s. Organising the list by the store sections & your route through the shop 🤓, really helps as well 😎
 
 --
 
