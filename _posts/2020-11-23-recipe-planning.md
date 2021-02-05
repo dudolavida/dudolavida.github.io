@@ -3,11 +3,11 @@ layout: post
 title: Recipe Planning
 category: Cooking
 tag: "Recipe Planning"
-excerpt-separator: <!--more-->
+
 ---
 
 Meal planning? Nah...
-<!--more-->
+
 It's all about cooking more!! I started recipe planning in mid-2020. My 5 key steps are:
 
 1. Consult recipe book you trust
