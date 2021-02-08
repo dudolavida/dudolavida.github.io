@@ -12,7 +12,7 @@ At the end of 2020, I wanted to practice gratitude and re-value all that 2020 ha
 -> Appreciate 12 things I was grateful for in 2020.
 
 `How?`  
--> Piggybacking the 12 days of Christmas, which run from the 25th of December to the 5th of January. (Who would have known? No, seriously, I had never considered; the song had always been hefty enoug... no, I didn't even think to make it singsongy 😅nor did I count things. Gratitude is best non-numeric).
+-> Piggybacking onto the 12 days of Christmas, which run from the 25th of December to the 5th of January. (Who would have known? No, seriously, I had never considered; the song had always been hefty enoug... no, I didn't even think to make it singsongy 😅nor did I count things. Gratitude is best non-numeric).
 -> Identifying the 12 topics, cleansing the thousands of pictures I had taken in 2020 and posting 12 posts on Instagram one on each day of Christmas.
 
 `Why?`  
