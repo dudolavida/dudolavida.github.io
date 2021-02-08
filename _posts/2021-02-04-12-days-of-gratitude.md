@@ -3,10 +3,9 @@ layout: post
 title: 12 Days of Gratitude
 category: Gratitude
 tag: Gratitude
-excerpt-separator: <!--more-->
 ---
 
-At the end of 2020, I wanted to practice gratitude and re-value all that 2020 had brought. While countering <!--more-->a lot of the dialogue I was seeing -> that 2021 would be "better".
+At the end of 2020, I wanted to practice gratitude and re-value all that 2020 had brought. While countering a lot of the dialogue I was seeing -> that 2021 would be "better".
 
 `What?`  
 -> Appreciate 12 things I was grateful for in 2020.
@@ -16,12 +15,12 @@ At the end of 2020, I wanted to practice gratitude and re-value all that 2020 ha
 -> Identifying the 12 topics, cleansing the thousands of pictures I had taken in 2020 and posting 12 posts on Instagram one on each day of Christmas.
 
 `Why?`  
--> 1. Reflect on 2020.
--> 2. Turning away from demanding from the future (resolutions) to sealing the past (gratitude), and readying for life in the present.
--> 3. Gratitude to counter indignation.
--> 4. Cleanse my photo library. (>10,000 in 2020 🥲)
--> 5. Post something on Insta for a change!
--> 6. Set a yearly habit?
+-> Reflect on 2020.  
+-> Turning away from demanding from the future (resolutions) to sealing the past (gratitude), and readying for life in the present.  
+-> Gratitude to counter indignation.  
+-> Cleanse my photo library. (>10,000 in 2020 🥲)  
+-> Post something on Insta for a change!  
+-> Set a yearly habit?
 
 --
 

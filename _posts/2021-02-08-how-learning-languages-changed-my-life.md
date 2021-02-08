@@ -42,7 +42,7 @@ Despite a healthy venture into Bollywood movies, two previous trips to India, I 
 
 ठीक है  (**_Hindi_**)  
 theek hai  
-it’s okay/
+it’s okay
 
 isn't the best way, to thank a hosting Indian family for their food,
 
