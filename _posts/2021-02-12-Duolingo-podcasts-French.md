@@ -1,41 +1,38 @@
 ---
 layout: post
-title: Duolingo Podcasts (French)
+title: Duolingo podcasts (French)
 category: Languages
 tags: French, Spanish
 ---
 > <font size="4"> "J’ai du apprendre avant de comprendre"</font>
 
--- from _[Episode 27: Le caporal canadien-français (The French Canadian Corporal)][id]_ by [Duolingo][id1]
-
-<br>
+-- from _[Episode 27: Le caporal canadien-français (The French Canadian Corporal)][id]_ by [Duolingo][id1]/
 
 "I've had to learn, before being able to understand.""
-
 Sometimes we struggle to understand things and that's where we can take the time to learn :)
-
-<br>
 
 ---
 
 <br>
 
-Duolingo podcasts are really beautiful and heart warming. Each episode hosts a different individual/group's story from the Francophone world, in incredibly diverse settings and through hardships and on to subsequent success. #happyendings
+With powerful topics such as physical disability, discrimination, women's soccer, gender identity, emigration, community, etc. Duolingo's podcasts offer a looking-eye, an opportunity to learn, before truly understanding./
 
-<br>
+Each episode hosts a different individual/group's beautiful and heart warming story from the Francophone world, against incredibly diverse backdrops and through hardships and on to subsequent success. #happyendings/
+
+
 On our travels around the world, we can really appreciate that French is spoken EVERYWHERE, and besides quirky accents, local expressions spring up everywhere, at 05:09 for example:
 
 ><font size="4">"Être aux petits oiseaux"</font>
 
- "to be with the little birds" in Canadian Québécoise French, expresses being up in the heavens, announcing a state of sheer bliss.
+ "to be with the little birds" in Canadian Québécoise French, expresses being up in the heavens, announcing a state of sheer bliss./
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/16477082/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/16477082/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe> <br>
 
 Je suis aux petits oiseaux, while listening to an episode during a lunchtime cycle. They bring uplifting moments to my day and a chance to connect to a unfamiliar world and existence. And I must admit, that these accounts of forging through adversity, often move me close to happy tears. 🥲 Must be the thin air up in the heavens..
 
-Duolingo's podcasts, with a mixture of French and English for narration purposes, are aimed at intermediate level learners. Several seasons are currently available in [Spanish][id3], [French][id4] and more recently in [English from Spanish][id5]. Look for the podcasts on your favorite listening apps, i.e. [Spotify][https://open.spotify.com/show/2Mu5dTlsG1vRE25twu1P2l].
+Duolingo's podcasts, with a mixture of French and English for narration purposes, are aimed at intermediate level learners. Several seasons are currently available in [Spanish][id3], [French][id4] and more recently in [English from Spanish][id5]. Look for the podcasts on your favorite listening apps, i.e. [Spotify][https://open.spotify.com/show/2Mu5dTlsG1vRE25twu1P2l]./
 
-<br>
+
 
 ---
 
