@@ -9,7 +9,7 @@ tags: Portuguese
 -- _O Crush Perfeito_ no Netflix
 
 Esta expressão é usada no Brasil para descrever uma falta de interesse ou habilidade em algo. Tem muitas praias lindas no Brasil, por outro lado, em inglês diríamos o seguinte:
-> "Cozinhar não é muito a _minha xícara de chá_, mas drinque...
+> <font size="4"> "Cozinhar não é muito a _minha xícara de chá_, mas drinque...</font>
 
 Quando você pode obter as melhores praias, por que se contentar com uma miserável xícara de chá?
 <br>
@@ -37,5 +37,6 @@ When you can get the best beaches, why settle for a measly cup of tea?
 
 > <font size="4"> "Se você pedir ao amigo google para traduzir"</font>
 
+-- Leia mais sobre a minha praia [aqui](http://iaracoelho.com.br/blog/expressoes-nao-e-a-minha-praia/)_
+
  _Como 'se'? 'se pedo'? Google é o meu melhor amigo! ❤️_  
- _Read more about a minha praia [here](http://iaracoelho.com.br/blog/expressoes-nao-e-a-minha-praia/)_
