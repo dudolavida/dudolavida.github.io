@@ -7,12 +7,17 @@ tags: French, Spanish
 > <font size="4"> "J’ai du apprendre avant de comprendre"</font>
 
 -- from _[Episode 27: Le caporal canadien-français (The French Canadian Corporal)][id]_ by [Duolingo][id1]
+
 <br>
+
 "I've had to learn, before being able to understand.""
 
 Sometimes we struggle to understand things and that's where we can take the time to learn :)
+
 <br>
+
 ---
+
 <br>
 
 Duolingo podcasts are really beautiful and heart warming. Each episode hosts a different individual/group's story from the Francophone world, in incredibly diverse settings and through hardships and on to subsequent success. #happyendings
@@ -31,7 +36,9 @@ Je suis aux petits oiseaux, while listening to an episode during a lunchtime cyc
 Duolingo's podcasts, with a mixture of French and English for narration purposes, are aimed at intermediate level learners. Several seasons are currently available in [Spanish][id3], [French][id4] and more recently in [English from Spanish][id5]. Look for the podcasts on your favorite listening apps, i.e. [Spotify][https://open.spotify.com/show/2Mu5dTlsG1vRE25twu1P2l].
 
 <br>
+
 ---
+
 <br>
 
 You might find, like me,  that you wouldn't normally consume this type/genre of material in your mothertongue. Even so, I've found that the medley of hues and emotions in these engaging tales are optimal, carrying me off on an all too familiar adventure, likely to inspire further language learning.
