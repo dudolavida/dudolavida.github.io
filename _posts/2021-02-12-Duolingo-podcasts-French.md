@@ -6,7 +6,7 @@ tags: French, Spanish
 ---
 > <font size="4"> "J’ai du apprendre avant de comprendre"</font>
 
--- from _[Episode 27: Le caporal canadien-français (The French Canadian Corporal)][id]_ by [Duolingo][id1]/
+-- from _[Episode 27: Le caporal canadien-français (The French Canadian Corporal)][id]_ by [Duolingo][id1]
 
 "I've had to learn, before being able to understand", sometimes we struggle to understand things and that's where we can take the time to learn :)  
 
