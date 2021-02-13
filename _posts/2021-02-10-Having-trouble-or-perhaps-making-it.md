@@ -13,7 +13,7 @@ There is often, one might find, an overlap between the two.
 - Status quo is challenged
 - Difficult questions may be asked
 - There is change
-- Attempts at resolving initial trouble can lead to further trouble & a rippling effect of trouble.
+- Attempts at resolving initial trouble can lead to a rippling effect of trouble.
 
 Douglas Adams' writing is magical, it can really get your mind thinking. As you surface from being submerged in physics and Sci-Fi, you slow down to find that his writing is just as powerful, if not more, in describing human behaviour and emotions.
 
