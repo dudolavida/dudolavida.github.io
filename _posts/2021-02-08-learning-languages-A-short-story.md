@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning languages: A short story
+title: Learning languages - a short story
 category: Languages
 ---
 
