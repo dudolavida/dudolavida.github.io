@@ -17,7 +17,7 @@ Quando você pode obter as melhores praias, por que se contentar com uma miserá
 
 ---
 
-> <font size="4"> "Cooking isn't really my beach, but drinks.."</font>
+> <font size="4">"Cooking isn't really my beach, but drinks.."</font>
 
 -- _Dating Around Brazil_ on Netflix
 
@@ -25,7 +25,7 @@ The line itself, spoken in a bar in Rio by a flirting first dater while craddlin
 
 In English we might say:
 
-> <font size="4"> "Cooking isn't really my cup of tea, but drinks.."</font>
+> <font size="4">"Cooking isn't really my cup of tea, but drinks.."</font>
 
 This contrast is probably not that deep, but it tells a story and loosens a smile. It's stories like these that keep me eager to learn.
 
@@ -35,8 +35,8 @@ When you can get the best beaches, why settle for a measly cup of tea?
 
 ---
 
-> <font size="4"> "Se você pedir ao amigo google para traduzir"</font>
+> <font size="4">"Se você pedir ao amigo google para traduzir"</font>
 
--- Leia mais sobre a minha praia [aqui](http://iaracoelho.com.br/blog/expressoes-nao-e-a-minha-praia/)_
+-- _Leia mais sobre a minha praia [aqui](http://iaracoelho.com.br/blog/expressoes-nao-e-a-minha-praia/)_
 
  _Como 'se'? 'se pedo'? Google é o meu melhor amigo! ❤️_  
