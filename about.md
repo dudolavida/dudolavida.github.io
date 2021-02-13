@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 ---
 
-La vida de dudo
+La vida de dudo  
+
 con las dudas de la vida
 
 ### More Information
 A plant-based happy rambler, in London UK.
 
 With a passion for languages, learning and change.
+
+Barefoot shoe wearing, nose breathing, gullible being :p
 
 [comment]: <> (### Contact me...)
 

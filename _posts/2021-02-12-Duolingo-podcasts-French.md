@@ -55,4 +55,4 @@ You might find, like me,  that you wouldn't normally consume this type/genre of 
 
 [id5]: https://podcast.duolingo.com/english "https://podcast.duolingo.com/english"
 
-[id6][https://open.spotify.com/show/2Mu5dTlsG1vRE25twu1P2l]
+[id6]:[https://open.spotify.com/show/2Mu5dTlsG1vRE25twu1P2l]
