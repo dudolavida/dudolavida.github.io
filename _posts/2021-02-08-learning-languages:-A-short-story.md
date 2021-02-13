@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How learning languages changed my life
+title: Learning languages: A short story
 category: Languages
 ---
 
