@@ -1,17 +1,17 @@
 ---
 layout: post
 title: 12 Days of Gratitude
-category: Gratitude
+category: Living
 tag: Gratitude
 ---
 
-At the end of 2020, I wanted to practice gratitude and re-value all that 2020 had brought. While countering a lot of the dialogue I was seeing -> that 2021 would be "better".
+At the end of 2020, I wanted to practice gratitude and re-value all that 2020 had brought. While resisting a lot of the dialogue I was seeing -> that 2021 would be "better".
 
 `What?`  
 -> Appreciate 12 things I was grateful for in 2020.
 
 `How?`  
--> Piggybacking onto the 12 days of Christmas, which run from the 25th of December to the 5th of January. (Who would have known? No, seriously, I had never considered; the song had always been hefty enoug... no, I didn't even think to make it singsongy 😅nor did I count things. Gratitude is best non-numeric).
+-> Piggybacking onto the 12 days of Christmas, which run from the 25th of December to the 5th of January. (Who would have known? No, seriously, I had never considered; the song had always been hefty enough... no, I didn't even think to make it singsongy 😅nor did I count things. Gratitude is best non-numeric).
 -> Identifying the 12 topics, cleansing the thousands of pictures I had taken in 2020 and posting 12 posts on Instagram one on each day of Christmas.
 
 `Why?`  
