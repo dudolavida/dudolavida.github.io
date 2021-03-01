@@ -2,7 +2,7 @@
 layout: post
 title: Duolingo podcasts (French)
 category: Languages
-tags: French, Spanish
+tags: french, spanish
 ---
 > <font size="4"> "J’ai du apprendre avant de comprendre"</font>
 
@@ -14,7 +14,7 @@ tags: French, Spanish
 ---
 
 
-  With powerful topics such as physical disability, discrimination, gender identity, women in sports, emigration, community, etc. Duolingo's podcasts offer a magic mirror  , an opportunity to learn, before truly understanding.  
+  With powerful topics such as physical disability, discrimination, gender identity, women in sports, emigration, community, etc. Duolingo's podcasts offer a magic mirror: an opportunity to learn, before truly understanding.  
 
 
 Each episode hosts a different individual/group's beautiful and heart warming story from the Francophone world, against incredibly diverse backdrops and through hardships and on to subsequent success. #happyendings  

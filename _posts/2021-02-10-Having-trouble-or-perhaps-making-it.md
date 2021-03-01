@@ -2,7 +2,7 @@
 layout: post
 title: Trouble
 category: Reading
-tags: Sci-Fi
+tags: sci-fi
 ---
 > <font size="4">"Having trouble or perhaps making it"</font>
 
@@ -17,7 +17,7 @@ There is often, one might find, an overlap between the two.
 
 Douglas Adams' writing is magical, it can really get your mind thinking. As you surface from being submerged in physics and Sci-Fi, you slow down to find that his writing is just as powerful, if not more, in describing human behaviour and emotions.
 
-As mentioned in [Salmon of Doubt][id]**, from an early age, Douglas was attracted to 'intelligent' humour and this is what he has brought to millions, a chance to ponder amongst the unexpected.
+As mentioned in [Salmon of Doubt][id] **, from an early age, Douglas was attracted to 'intelligent' humour and this is what he has brought to millions, a chance to ponder amongst the unexpected.
 
 ---
 

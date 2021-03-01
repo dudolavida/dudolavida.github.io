@@ -2,7 +2,7 @@
 layout: post
 title: Recipe Planning
 category: Cooking
-tag: "Recipe Planning"
+tag: "recipe planning"
 
 ---
 

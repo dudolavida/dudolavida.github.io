@@ -2,7 +2,7 @@
 layout: post
 title: Acceptance
 category: Living
-tags: Love, Acceptance
+tags: dudas, love, acceptance
 ---
 
 > “It’s the days that you can’t love yourself, that you look desperately for love from others”

@@ -2,7 +2,7 @@
 layout: post
 title: Minha praia / My cup of tea
 category: Languages
-tags: Portuguese
+tags: portuguese
 ---
 > <font size="4"> "Cozinhar não é muito a minha praia, mas drinque..."</font>
 

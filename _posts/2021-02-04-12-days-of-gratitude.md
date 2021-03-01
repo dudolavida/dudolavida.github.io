@@ -2,7 +2,7 @@
 layout: post
 title: 12 Days of Gratitude
 category: Living
-tag: Gratitude
+tag: gratitude
 ---
 
 At the end of 2020, I wanted to practice gratitude and re-value all that 2020 had brought. While resisting a lot of the dialogue I was seeing -> that 2021 would be "better".

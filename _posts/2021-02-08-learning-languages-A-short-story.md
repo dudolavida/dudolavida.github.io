@@ -2,6 +2,7 @@
 layout: post
 title: Learning languages - a short story
 category: Languages
+tag: story
 ---
 
 Despite being 100% Italian, mastering Italian as a second language always seemed impossible. The Italian teaching style in my school was also much stricter. Clearly having fun was conducive to learning:  
