@@ -2,7 +2,7 @@
 layout: post
 title: Doubts of the Self
 category: Living
-tags: Dudas
+tags: dudas
 ---
 
 "She's figured out all her doubts were someone else's point of view" - *She* by Greenday
