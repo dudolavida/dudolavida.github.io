@@ -5,17 +5,17 @@ category: Living
 tags: habit, productivity
 ---
 
-A colleague, trained as a life coach, introduced this method to me as a way to keep-up with your personal goals.
+A colleague, trained as a life coach, introduced this method as a way to re-focus your personal goals.
 
-The WHAT might be a goal:         I'm going to learn to fly
-The HOW might be the method(s):   _um_.. fluid dynamics?
-The WHY might be:                 I believe I can fly, duh!
+The WHAT might be a goal:         I'm going to learn to fly  
+The HOW might be the method(s):   _um_.. fluid dynamics?  
+The WHY might be:                 I believe I can fly, duh!
 
 Your WHY keeps you persistent, engaged, coming back. Your HOW is all the weird-ass things you're going to try and try again. And the WHAT is just a [promise][id2] waiting to be fulfilled.
 
 _WHY-How-what?_
 
-You'll need a good WHY where you're heading. ;) \*
+You'll need a good WHY\* where you're heading. ;)
 
 <br>
 
