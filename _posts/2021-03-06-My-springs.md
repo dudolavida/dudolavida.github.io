@@ -7,27 +7,32 @@ tags: lows
 
 > <font size="4"> "How did you transition out of literally wanting days to end to looking forward to the next day?"
 
-Winter 1: Dark upper sixth (last year of high school) -> 3 Movies each night & 4 am bedtime, I lived as a ghost. I needed a girlfriend, I needed appreciation.
+#### Winter 1:
+Dark upper sixth (last year of high school) -> 3 Movies each night & 4 am bedtime, I lived as a ghost. I needed a girlfriend, I needed appreciation.
 
 -> Language Learning 2013, opportunity to come out of my shell, and enjoy life and have another source of endorphins which gave me a willigness to live/get out and meet people and travel the world. -> extroversion
 
 ---
 <br>
 
-Winter 2: Dark time at home, I felt lonely despite being with family. I felt I needed social interactions beside my parents. I was attached to my phone and used it to escape, I was courting a girl at a distance, hanging onto the appreciation, I was neither here nor there.
+#### Winter 2:
+Dark time at home, I felt lonely despite being with family. I felt I needed social interactions beside my parents. I was attached to my phone and used it to escape, I was courting a girl at a distance, hanging onto the appreciation, I was neither here nor there.
 
 -> The Subtle Art of Not Giving A Fuck, don't focus on what others think. Went local, had a lot of fun and dated a girl locally. Picked up loads of different activities at home: piano, drawing, coding, lots of incomplete udemy classes 😅 -> extroversion
-
+<br>
 ---
 <br>
-Winter 3: Attachment to others' emotions, living reactively rather than actively. Feelings of indecision and confusion. I wanted to fix things with an ex and return to our intimacy despite the ending of our romantic relationship.
+#### Winter 3:
+Attachment to others' emotions, living reactively rather than actively. Feelings of indecision and confusion. I wanted to fix things with an ex and return to our intimacy despite the ending of our romantic relationship.
 
 -> Happiness is a choice in every moment. -> Ambivert
 
 <br>
 <br>
+
 ---
-Reading all the way, the books that helped me start practicing self-love:
+<br>
+Reading with the thawing, the books that helped me start practicing self-love:
 - The Unexpected Joy of Being Single - <!--Blg--> [Amz][bk1amz] [Gdrds][bk1gdrds]
 - The Tao of Pooh & the Te of Piglet - <!--Blg--> [Amz][bk2amz] [Gdrds][bk2gdrds]
 - The Alchemist - <!--Blg--> [Amz][bk3amz] [Gdrds][bk3gdrds]
