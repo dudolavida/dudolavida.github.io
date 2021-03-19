@@ -4,7 +4,7 @@ title: Walking takeaways
 category: Living
 tags:
 ---
-Most of my 'takeaways' come around when I'm walking along.
+Most of my 'takeaways' reach me while I'm walking along.
 
 Some examples from the week
 - the only thing that sticks with you the whole way is your life, love it.
