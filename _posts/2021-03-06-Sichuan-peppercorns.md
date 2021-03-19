@@ -5,9 +5,9 @@ category: Cooking
 tags: ingredients
 ---
 
-I've grown to love sichuan pepper, ever since I had fresh sichuan peppercorns in China.
+Ever since I had fresh sichuan peppercorns in China, this tingly sensation
 
-![Sichuan peppercorns （花椒）in Beijing](https://imgur.com/a/r7ssoWs)
+![Sichuan peppercorns （花椒）in Beijing](https://i.imgur.com/2V4m6Ev.jpg)
 
 Peppercorns are pretty awesome and they numb your mouth. Combine this with being tipsy and you've got yourself an intersting combination of feelings. We liked them so much we asked for more 😂And they were so exotic to us, we worried they might be precious and they wouldn't give us more 😅. Soon all our mouths were numb 😋
 
