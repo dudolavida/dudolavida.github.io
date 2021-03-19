@@ -30,7 +30,7 @@ On our travels around the world, we can really appreciate that French is spoken 
 ---
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/16477082/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 ---
-Je suis aux petits oiseaux, while listening to an episode during a lunchtime cycle. They bring uplifting moments to my day and a chance to connect to a unfamiliar world and existence. And I must admit, that these accounts of forging through adversity, often move me close to happy tears. 🥲 Must be the thin air up in the heavens..
+Je suis aux petits oiseaux, while listening to an episode during a lunchtime cycle. They bring uplifting moments to my day and a chance to connect to a unfamiliar world and existence. And I must admit, that these accounts of forging through adversity, often move me close to happy tears. 🥲 Must be the thin air up in the heavens.
 
 Duolingo's podcasts, with a mixture of French and English for narration purposes, are aimed at intermediate level learners. Several seasons are currently available in [Spanish][id3], [French][id4] and more recently in [English from Spanish][id5]. Look for the podcasts on your favorite listening apps, i.e. [Spotify][id6].  
 ---
