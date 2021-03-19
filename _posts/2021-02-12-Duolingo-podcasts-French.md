@@ -34,12 +34,9 @@ Je suis aux petits oiseaux, while listening to an episode during a lunchtime cyc
 
 Duolingo's podcasts, with a mixture of French and English for narration purposes, are aimed at intermediate level learners. Several seasons are currently available in [Spanish][id3], [French][id4] and more recently in [English from Spanish][id5]. Look for the podcasts on your favorite listening apps, i.e. [Spotify][id6].
 
-<br>
 ---
 
-<br>
-
-You might find, like me,  that you wouldn't normally consume this type/genre of material in your mothertongue. Even so, I've found that the medley of hues and emotions in these engaging tales are optimal, carrying me off on an all too familiar adventure, likely to inspire further language learning.
+You might find, like me,  that you wouldn't normally consume this type/genre of material in your mothertongue. Even so, I've found that the medley of hues and emotions in these engaging tales are optimal, taking me on an inspiring language learning adventure.
 
 
 [id]: https://podcast.duolingo.com/episode-27-le-caporal-canadien-francais-the-french-canadian-corporal "https://podcast.duolingo.com/episode-27-le-caporal-canadien-francais-the-french-canadian-corporal"
