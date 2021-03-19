@@ -32,4 +32,4 @@ Similarly what is your bigger picture?
 \*_And that kids is the story of why I never learned the guitar._
 
 [id1]: https://www.amazon.co.uk/gp/product/1292263806/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1292263806&linkCode=as2&tag=dudolavida-21&linkId=b6405629f2c6cc904798b8f86fcfc7f0 "Rules of Thinking: A personal code to think yourself smarter, wiser and happier"
-[id2]:https://dudolavida.com/living/LEGIT/ "LEGIT"
+[id2]:https://dudolavida.com/living/Legit/ "LEGIT Blogpost"
