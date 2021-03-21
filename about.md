@@ -8,7 +8,7 @@ La vida de dudo
 
 con las dudas de la vida
 
-### Now
+### **Currently**
 A plant-based happy rambler, in London UK.
 
 With a passion for languages, learning and change.

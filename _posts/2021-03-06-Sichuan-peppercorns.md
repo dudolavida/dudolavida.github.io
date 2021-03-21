@@ -5,14 +5,16 @@ category: Cooking
 tags: ingredients
 ---
 
-Ever since I had fresh sichuan peppercorns in China, this tingly sensation
+Ever since I had fresh sichuan peppercorns in China, I've found the tingly sensation and mouth numbness pretty awesome.
 
 ![Sichuan peppercorns （花椒）in Beijing](https://i.imgur.com/2V4m6Ev.jpg)
 
-Peppercorns are pretty awesome and they numb your mouth. Combine this with being tipsy and you've got yourself an intersting combination of feelings. We liked them so much we asked for more 😂And they were so exotic to us, we worried they might be precious and they wouldn't give us more 😅. Soon all our mouths were numb 😋
+ Combine that with being tipsy and you've got yourself an interesting combination of sensations. <!-- add here -->
 
-In cooking, sichuan peppers remind me of the flavor of pork / meaty chinese food, / mapo tofu.
+We liked them so much we asked for more 😂And they were so exotic to us, we worried they might be too precious and they wouldn't give us more 😅. Soon all our mouths were numb 😋
 
-I love making the oil infused with chillies and sichuan peppercorn, from this [recipe][id].
+In cooking, sichuan peppers remind me of the flavour of meaty chinese food, / mapo tofu.
+
+I love making an oil infused with chillies and sichuan peppercorn, from this [recipe][id].
 
 [id]: https://captaincoriander.com/2020/10/05/tong-ho-and-enoki-nuts-salad/

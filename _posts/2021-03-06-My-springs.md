@@ -29,14 +29,11 @@ Attachment to others' emotions, living reactively rather than actively. Feelings
 
 -> Happiness is a choice in every moment. -> Ambivert
 
-<br>
-<br>
-
 ---
 
 <br>
 
-Reading with the thawing, the books that helped me start practicing self-love:
+Reading as part of the thawing; the books that helped me start practicing self-love are:
 - The Unexpected Joy of Being Single - <!--Blg--> [Amz][bk1amz] [Gdrds][bk1gdrds]
 - The Tao of Pooh & the Te of Piglet - <!--Blg--> [Amz][bk2amz] [Gdrds][bk2gdrds]
 - The Alchemist - <!--Blg--> [Amz][bk3amz] [Gdrds][bk3gdrds]
