@@ -13,10 +13,7 @@ tags: dudas
 
 
 ---
-
-<a id="\*">  
-_Book Links: [Amazon][id] | [Goodreads][id2]_
-</a>
+_Book Links: <a id="\*">  [Amazon][id] | [Goodreads][id2]_ </a>
 
 ---
 
