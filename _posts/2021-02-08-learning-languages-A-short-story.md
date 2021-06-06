@@ -35,10 +35,13 @@ I started learning Mandarin Chinese a few years ago, thanks to a great teacher a
 bí-zi – zuǐ-bā – yǎnjīng  
 nose – mouth – eyes
 
-of a cliff face, that a woman was pointing out to her husband. Well that was worth learning 🗿
+of a cliff face, that a woman was pointing out to her husband.
 
 ![鼻子,嘴巴,眼睛 : 华山, 中国](https://i.imgur.com/6pSn4At.jpg)
 
+Well that was worth learning 🗿  
+
+  
 Despite a healthy venture into Bollywood movies, two previous trips to India, I learned the hard way that:
 
 ठीक है  (**_Hindi_**)  
